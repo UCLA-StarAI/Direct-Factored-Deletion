@@ -15,7 +15,7 @@ In *Proceedings of the 31st Conference on Uncertainty in Artificial Intelligence
 
 ### Main contact###
 
-Guy Van den Broek  
+Guy Van den Broeck  
 Department of Computer Science  
 UCLA  
 [http://www.guyvandenbroeck.com](http://www.guyvandenbroeck.com)  
