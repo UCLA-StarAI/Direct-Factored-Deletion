@@ -1,0 +1,8 @@
+Direct and Factored Deletion
+Copyright 2011-2015 Guy Van den Broeck and Arthur Choi
+This product includes software developed at KU Leuven and UCLA.
+
+This software uses the inference library inflib.jar, which is
+provided by the Automated Reasoning Group at UCLA.  inflib.jar is
+licensed only for non-commercial, research and educational use.
+
