@@ -5,9 +5,8 @@ Prototype implementation of direct and factored deletion algorithms to learn Bay
 ## Publication ##
 
 Guy Van den Broeck, Karthika Mohan, Arthur Choi, Adnan Darwiche, Judea Pearl. 
-**Efficient Algorithms for Bayesian Network Parameter Learning from Incomplete Data**, 
+**[Efficient Algorithms for Bayesian Network Parameter Learning from Incomplete Data](https://lirias.kuleuven.be/bitstream/123456789/500017/1/deletion-uai15.pdf)**, 
 In *Proceedings of the 31st Conference on Uncertainty in Artificial Intelligence (UAI)*, 2015.
-[[pdf]](https://lirias.kuleuven.be/bitstream/123456789/500017/1/deletion-uai15.pdf)
 
 ## Contact ##
 
