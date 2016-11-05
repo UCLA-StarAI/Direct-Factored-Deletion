@@ -23,7 +23,7 @@ UCLA
 
 ## Contributors ##
 
-* [Guy Van den Broeck](http://www.guyvandenbroeck.com)
+* [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/)
 * [Arthur Choi](http://web.cs.ucla.edu/~aychoi/)
 
 ## License ##
