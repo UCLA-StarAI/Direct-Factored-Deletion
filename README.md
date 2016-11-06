@@ -2,6 +2,10 @@
 
 Prototype implementation of direct and factored deletion algorithms to learn Bayesian network parameters from incomplete data under the MCAR and MAR assumptions. These algorithms are consistent, yet they only require a single pass over the data, and no inference in the Bayesian network.
 
+![Logo](
+http://web.cs.ucla.edu/~guyvdb/img/deletion.png)
+
+
 ## Publication ##
 
 Guy Van den Broeck, Karthika Mohan, Arthur Choi, Adnan Darwiche, Judea Pearl. 
